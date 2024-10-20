@@ -81,7 +81,7 @@ enableEmoji = true
 
 [[params.socialIcons]]
 name = "Portfolio-site"
-url = "https://sumone.love/"
+url = "https://sumone.love"
 
 [[params.socialIcons]]
 name = "github"
