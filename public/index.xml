@@ -6,7 +6,23 @@
     <description>Recent content on sumit kumar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact Me</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/contact/</guid>
+      
+      <description>&lt;p&gt;You can contact me via any of the following ways :)&lt;/p&gt;
+&lt;p&gt;Email: &lt;a href=&#34;mailto:login.sumitkumar@gmail.com&#34;&gt;login.sumitkumar@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Twitter: &lt;a href=&#34;https://twitter.com/sumo9e&#34;&gt;twitter.com/sumo9e&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Telegram: &lt;a href=&#34;https://t.me/sumonelove&#34;&gt;@sumonelove&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Instagram: &lt;a href=&#34;https://www.instagram.com/echo_sumit&#34;&gt;echo_sumit&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LinkedIn:&lt;a href=&#34;https://www.linkedin.com/in/sum0ne&#34;&gt; linkedin.com/in/sum0ne&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Create Your Own git server</title>
       <link>http://localhost:1313/posts/create-git-server/</link>

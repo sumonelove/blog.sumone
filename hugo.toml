@@ -42,7 +42,7 @@ enableEmoji = true
  [[menu.main]]
    pageRef="contact"
    name = "Contact"
-   url = "https://sumone.love/contact/"
+   url = "/contact/"
    weight = 40
 
 
