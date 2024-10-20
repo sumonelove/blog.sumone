@@ -88,9 +88,6 @@ url = "https://sumone.love"
 name = "github"
 url = "https://github.com/sumo1e"
 
-[[params.socialIcons]]
-name = "lindedin"
-url = "https://www.linkedin.com/in/sum0ne"
 
 [[params.socialIcons]]
 name = "twitter"
