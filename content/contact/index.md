@@ -13,6 +13,6 @@ Twitter: [twitter.com/sumo9e](https://twitter.com/sumo9e)
 
 Telegram: [@sumonelove](https://t.me/sumonelove)
 
-Instagram: [echo_sumit](https://www.instagram.com/echo_sumit)
+Instagram: [echo_sumit](https://www.instagram.com/echosumit)
 
 LinkedIn:[ linkedin.com/in/sum0ne](https://www.linkedin.com/in/sum0ne)
