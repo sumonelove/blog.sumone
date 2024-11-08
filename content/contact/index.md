@@ -9,10 +9,10 @@ author: Sumit Kumar
 
 Email: login.sumitkumar@gmail.com 
 
-Twitter: [twitter.com/sumo9e](https://twitter.com/sumo9e)
+Twitter: [sumo9e](https://twitter.com/sumo9e)
 
 Telegram: [@sumonelove](https://t.me/sumonelove)
 
 Instagram: [echosumit](https://www.instagram.com/echosumit)
 
-LinkedIn:[ linkedin.com/in/sum0ne](https://www.linkedin.com/in/sum0ne)
+LinkedIn:[ sum0ne](https://www.linkedin.com/in/sum0ne)
