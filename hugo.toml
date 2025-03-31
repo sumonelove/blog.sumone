@@ -64,7 +64,7 @@ enableEmoji = true
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Sumit Kumar"
   name = "Sumit Kumar"
-  description = "Philosophy of Linux,Devops,OpenSouce,Decentralization,Privacy,Life, blah blah blah..." 
+  description = "Philosophy of Linux,Devops,OpenSouce,Decentralization,Privacy,Life" 
 
 
 # Allow to override webmanifest options
