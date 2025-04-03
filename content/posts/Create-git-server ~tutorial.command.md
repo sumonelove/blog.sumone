@@ -1,5 +1,5 @@
 ---
-title: Create Your Own git server 
+title: Create Your Own git server ~command-tutorial 
 date: 2024-04-27
 ---
 
