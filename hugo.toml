@@ -31,7 +31,7 @@ enableEmoji = true
     # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
     pageRef="/"
     name = 'Home'
-    url = 'https:/sumone.love/'
+    url = 'https://sumone.love/'
     weight = 10
   [[menu.main]]
     pageRef="posts"
