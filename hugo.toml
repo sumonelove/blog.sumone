@@ -1,6 +1,5 @@
 title = "sumit kumar"
 baseURL = 'https://blog.sumone.love/'
-disqusShortname = "sumone"
 
 # This is what goes in <html lang="">
 languageCode = 'en-us'
