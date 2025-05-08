@@ -17,15 +17,7 @@
                 {{ .Content }}
             </div>
         </article>
-       <section id="isso-thread"
-         data-title="{{ .Title }}"
-         data-isso-id="{{ .Permalink }}">
-</section>
-
-<script data-isso="https://comments.sumone.love/isso"
-        src="https://comments.sumone.love/isso/js/embed.min.js">
-</script>
-
+{{ partial "comments.html" . }}
     </main>
 </div>
 {{ end }}
