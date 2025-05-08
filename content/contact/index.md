@@ -9,7 +9,7 @@ author: Sumit Kumar
 
 Email: login.sumitkumar@gmail.com 
 
-Twitter: [sumo9e](https://twitter.com/sumo9e)
+Twitter: [sumo9e](https://twitter.com/sumonefromindia)
 
 Telegram: [@sumonelove](https://t.me/sumonelove)
 
