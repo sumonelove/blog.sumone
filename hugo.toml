@@ -52,7 +52,7 @@ enableEmoji = true
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
   # You can take a look at layouts/index.html for more information.
-  description = "Sumit Kumar | Linux, DevOps, Backend, Networing...(^_^)"
+  description = "I don't believe in believing..."
 
   mainSections = ['posts']
   toc = false # set to false to disable table of contents 'globally'
@@ -63,7 +63,7 @@ enableEmoji = true
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Sumit Kumar"
   name = "Sumit Kumar"
-  description = "Philosophy of Linux,Devops,OpenSouce,Decentralization,Privacy,Life" 
+  description = "I don't believe in believing..." 
 
 
 # Allow to override webmanifest options
