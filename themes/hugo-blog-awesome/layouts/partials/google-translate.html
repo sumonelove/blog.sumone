@@ -1,6 +1,51 @@
-<div id="translate-container" style="text-align:center; padding: 10px;">
+<!-- Floating Button Container -->
+<div id="translate-container">
   <div id="google_translate_element"></div>
 </div>
+
+<style>
+  #translate-container {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 9999;
+    background: white;
+    padding: 6px 10px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  }
+
+  /* Hide Google banner */
+  .goog-te-banner-frame.skiptranslate,
+  body > .goog-te-banner-frame {
+    display: none !important;
+  }
+
+  body {
+    top: 0px !important;
+  }
+
+  /* Hide the tooltip when translating */
+  .goog-tooltip {
+    display: none !important;
+  }
+
+  /* Hide the Google "powered by" logo if needed */
+  .goog-logo-link {
+    display: none !important;
+  }
+
+  .goog-te-gadget {
+    font-size: 0px !important;
+  }
+
+  #google_translate_element select {
+    font-size: 14px;
+    padding: 4px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+</style>
 
 <script type="text/javascript">
   function googleTranslateElementInit() {
