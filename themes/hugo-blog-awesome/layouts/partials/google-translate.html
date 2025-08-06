@@ -1,21 +1,37 @@
-<!-- Floating Button Container -->
+<!-- Floating Translate Button -->
 <div id="translate-container">
   <div id="google_translate_element"></div>
 </div>
 
 <style>
+  /* Floating container */
   #translate-container {
     position: fixed;
     bottom: 20px;
     right: 20px;
     z-index: 9999;
-    background: white;
+    background-color: #1e1e1e; /* dark background */
     padding: 6px 10px;
     border-radius: 10px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.6);
+    color: #ffffff;
   }
 
-  /* Hide Google banner */
+  /* Dropdown styling */
+  #google_translate_element select {
+    background-color: #2c2c2c;
+    color: #ffffff;
+    border: 1px solid #444;
+    border-radius: 5px;
+    padding: 4px;
+    font-size: 14px;
+  }
+
+  /* Remove Google branding */
+  .goog-logo-link, .goog-te-gadget span {
+    display: none !important;
+  }
+
   .goog-te-banner-frame.skiptranslate,
   body > .goog-te-banner-frame {
     display: none !important;
@@ -25,25 +41,8 @@
     top: 0px !important;
   }
 
-  /* Hide the tooltip when translating */
   .goog-tooltip {
     display: none !important;
-  }
-
-  /* Hide the Google "powered by" logo if needed */
-  .goog-logo-link {
-    display: none !important;
-  }
-
-  .goog-te-gadget {
-    font-size: 0px !important;
-  }
-
-  #google_translate_element select {
-    font-size: 14px;
-    padding: 4px;
-    border-radius: 5px;
-    border: 1px solid #ccc;
   }
 </style>
 
